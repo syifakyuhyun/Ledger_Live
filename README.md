@@ -88,10 +88,10 @@ _Time Required: 30 minutes_
 
 Watch this tutorial on installing and using Ledger Live:
 
-[Embed Video Link]
+[How to Re-Install Ledger Live on a New Computer](https://www.youtube.com/watch?v=sIeB4xS4ZfQ)
 
-**Duration:** 20 minutes  
-**Channel Name:** CryptoGuides
+
+**Duration:** 22 minutes  
 
 The tutorial covers essential features and tips by experts.
 
