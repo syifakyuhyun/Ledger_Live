@@ -112,3 +112,8 @@ Windows, macOS, Linux supported; available on mobile platforms too.
 
 **Common installation issues?**
 Permission errors often resolved by running as admin.
+
+## Read Also
+- [Exodus Wallet: A Comprehensive Installation Guide](https://github.com/syifakyuhyun/exodus/blob/main/README.md)
+- [Solflare Extension: A Comprehensive Installation Guide](https://github.com/syifakyuhyun/Solflare/blob/main/README.md)
+- [Trust Wallet: A Comprehensive Installation Guide](https://github.com/syifakyuhyun/trust_wallet/blob/main/README.md)
