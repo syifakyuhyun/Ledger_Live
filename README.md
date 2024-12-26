@@ -56,6 +56,8 @@ For mobile devices:
 - Completion message appears.
 - Shortcut icon created on desktop.
 
+*Author's Note: I highly recommend reading the article titled "How to Send USDT from Metamask to Tether Wallet" available here: https://4bearsonline.com/can-you-send-usdt-from-metamask-to-tether-wallet-2. It provides detailed, step-by-step instructions to help you transfer USDT securely and efficiently.*
+
 ## Post-installation Setup
 _Time Required: 15 minutes_
 
